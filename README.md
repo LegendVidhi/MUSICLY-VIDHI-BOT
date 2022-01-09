@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Yukki Music Bot ⭐️</b></h1>
+<h1 align= center><b>⭐️ MUSICLY VIDHI BOT ⭐️</b></h1>
 <h3 align = center> Multi-Assistant | Video Calls | Voice Calls | Heroku Supported</h3>
 
 <p align="center">
